@@ -1,0 +1,72 @@
+Class 35 PHP@ Server Setup Backend
+====================================
+
+Local Server 
+(For Windows)
+1. xampp download >>> Latest version 64 bit
+https://www.apachefriends.org/download.html?fbclid=IwY2xjawGV3UZleHRuA2FlbQIxMAABHVuUh1THeEciaBrkv0c-t2VPigS0q__BiCJ8UKJOT2JzrGZt6pNAdvcsIg_aem_rS1XsIbpT9PIEATjBH7VLA
+
+install.exe file download
+https://sourceforge.net/projects/xampp/postdownload
+
+2. Nodejs download For Laravel
+https://nodejs.org/en/download/package-manager?fbclid=IwY2xjawGV3l9leHRuA2FlbQIxMAABHR6um37TD1WKrnrpKby1txmvjZ_jdymGwGz7I-txpW5KyxMNXMnvcE20qg_aem_cgWrFlCKpKeQ9finrXP7iA
+Prebuilt Installer
+
+3. Composer 
+
+https://getcomposer.org/download/
+=======================
+First Nodejs >>> install  not check (without check)
+2nd must XAMPP
+3rd Composer
+window+R = msconfig >>> tools>>> change us setting
+>>>>down the bar >>>> ok >>>ok
+
+[Check install
+git base >>> node-v
+git base >>> composer-v]
+
+[pc >>> searce Bar >>> xampp check]
+
+Google>>> localhost>>> enter 
+>>> XAMPP Apache + MariaBD + PHP + Perl
+
+====================
+Nodejs install
+check >>> yes finish. without check >> Yes finish.
+Open Git bese node -v Enter
+ok
+
+Xampp 
+
+Keyboard Window Button + R >>> msconfig
+>>> Tools >>> Change UAC setting >>> launch 
+>>> Notification Do Down >>>OK >> OK>>.
+Now Install XAMPP >>> 
+Public Allow >>> finish
+Now go to window search box >>> xampp control >>>
+Apache and MySQL >>> Start ok>>> Allow Access.. 
+
+XAMPP Check >>> google browser >>> type "localhost" >>>
+XAMPP Apache + MariaDB + PHP + Perl
+
+XAMPP ok....
+
+###Composer Install 
+>>> install for all users  >>> developer mode ok >>>
+>>> Add this PHP to your Path? OK >>>
+>>next >> next>>> install >>>just finish >>
+
+Composer Check >>>
+git bese  >>>> composer -v
+
+
+all ok done... 
+
+
+
+
+
+
+
